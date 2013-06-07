@@ -85,5 +85,5 @@ Possible AI Lag<br/>
 House loot disappears, bug has something to do with lag when choosing to unlock house twice.<br/>
 Death Graves don't work (Uses bodies instead)<br/>
 Logout Animation<br/><br/>
-
+Flying loot(you can't pick up this loot) in some buildings also under the floor! (c)Jackzor
 (NOTE:  Folders inside the \MPMissions\ folder don't have to be packed to .pbo format)
